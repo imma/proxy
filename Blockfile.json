@@ -1,0 +1,7 @@
+{
+  "require": [
+    "squid",
+    "nexus",
+    "cache"
+  ]
+}
